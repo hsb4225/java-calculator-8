@@ -17,6 +17,6 @@
 - 커스텀 구분자 "//[delimiter]\n" 형식 지원
 - 잘못된 커스텀 구분자 입력 시 IllegalArgumentException 발생
 
-### 4. Application
+#### 4. Application
 - Console을 통해 사용자 입력 받기
 - 입력 문자열 → 분리 → 숫자 변환 → 합계 → 결과 출력
